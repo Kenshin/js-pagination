@@ -4,7 +4,7 @@
 ### 使用方法：  
 引入：  
 <pre>
-<script src="javascripts/js-pagination.min.js"></script>
+&lt;script src=&quot;javascripts/js-pagination.min.js&quot;&gt;&lt;/script&gt;
 </pre>
 
 使用：  
