@@ -8,6 +8,7 @@
 *  Date      : 2012-5-4
 *  Blog      : http://www.k-zone.cn/zblog
 *  Project   : https://github.com/kenshin/js-pagination
+*  Dual licensed under the MIT or GPL Version 2 licenses
 *  
 *  Copyright 2012
 * 
