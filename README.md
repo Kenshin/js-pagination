@@ -51,5 +51,5 @@ version 1.0 [2012-05-04]
 * 微博：[新浪微博](http://weibo.com/23784148)
 
 ## 版权和许可：
-Copyright 2012 [k-zone.cn](http://www.k-zone.cn/zblog)
+Copyright 2012 [k-zone.cn](http://www.k-zone.cn/zblog)  
 Licensed under MIT or GPL Version 2 licenses
