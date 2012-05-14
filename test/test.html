@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>Pagination JavaScript Library Test Page</title>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script type="text/javascript" src="../jquery.js-pagination.min.js"></script>
+		<script type="text/javascript" src="../js-pagination.min.js"></script>
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			$( document ).ready( function() {
+				//插件版本
+				var pv1 = $.pagination.build(  307, 1, 6, 2, 6 );
+				alert( "　jquery分页，分页后最后一页 = "　+ pv1.lastpage )
+				//独立版
+				var pv2 = pagination.build(  307, 1, 6, 2, 6 );
+				alert( "非jquery分页，分页后最后一页 = "　+ pv2.lastpage )
+			});
+		</script>
+	</body>
+
+</html>
