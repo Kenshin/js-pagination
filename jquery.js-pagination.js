@@ -4,7 +4,7 @@
 *  
 *  Author    : Kenshin
 *  Emil      : kenshin@ksria.com
-*  version   : 1.0
+*  version   : 1.1
 *  Date      : 2012-5-14
 *  Blog      : http://www.k-zone.cn/zblog
 *  Project   : https://github.com/kenshin/js-pagination

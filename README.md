@@ -63,6 +63,10 @@ version 1.0 [2012-05-04]
 * 适合任意支持JavaScript的浏览器
 * 支持复杂分页
 
+version 1.1 [2012-05-14]
+* 增加了jQuery插件版（在非插件版的基础上修改而成）
+* 增加了测试页面test/test.html
+
 ## 联系方式：
 * 博客：[k-zone.cn](http://www.k-zone.cn/zblog)
 * 微博：[新浪微博](http://weibo.com/23784148)
