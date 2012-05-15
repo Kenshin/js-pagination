@@ -56,8 +56,8 @@ pv.offset     //偏移量
 </pre>
 
 其他版本的分页组件：  
-Node.js版：[https://github.com/Kenshin/node-pagination](https://github.com/Kenshin/node-pagination)  
-ActionScript版：[https://github.com/Kenshin/as-pagination](https://github.com/Kenshin/as-pagination)
+Node.js版：[https://github.com/kenshin/node-pagination](https://github.com/kenshin/node-pagination)  
+ActionScript版：[https://github.com/kenshin/as-pagination](https://github.com/kenshin/as-pagination)
 
 ## 更新日志：
 version 1.0 [2012-05-04]
