@@ -55,7 +55,7 @@ pv.back       //后退到第几页
 pv.offset     //偏移量
 </pre>
 
-其他版本的分页组件：  
+## 其他版本的分页组件：  
 Node.js版：[https://github.com/kenshin/node-pagination](https://github.com/kenshin/node-pagination)  
 ActionScript版：[https://github.com/kenshin/as-pagination](https://github.com/kenshin/as-pagination)
 
