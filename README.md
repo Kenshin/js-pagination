@@ -1,5 +1,5 @@
 ##Pagination JavaScript Library
-独立版的JavaScript分页组件
+独立版的 JavaScript 分页组件
 
 ### 使用方法：  
 引入（独立版）：  
